@@ -90,3 +90,20 @@ DESC
 select region, count(*) AS Number_of_Sales_Transactions from[dbo].[SalesDATA ProJECT 1]
 Group by Region
 ```
+Data Visualization
+---
+
+![Sales Data Dashboard](https://github.com/user-attachments/assets/e4d854bd-dcfc-44bf-82e4-f7908d709adc)
+
+![Pivot Tables for Sales Data](https://github.com/user-attachments/assets/1773eb0a-3e09-41e7-bef4-1b2357b432ad)
+
+
+![SQL 1](https://github.com/user-attachments/assets/21d33234-1946-48d2-be4d-85ade3617bb5)
+
+
+![SQL](https://github.com/user-attachments/assets/1f3975b9-7d9d-43a1-a0b8-e826c2ce5760)
+
+![SQL](https://github.com/user-attachments/assets/ec671dfc-fdab-4a29-8c5f-8ef5ed533822)
+
+
+

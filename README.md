@@ -106,7 +106,9 @@ Group by Region
 ```
 Data Visualization
 ---
+![Ave Sales per Product    Total Sales per Region](https://github.com/user-attachments/assets/6cbf9142-5697-4ee1-a76a-3f1580baa9b8)
 
+![Pivot Tables](https://github.com/user-attachments/assets/413d45e3-443d-4edf-bd79-8311c932b653)
 
 
 
